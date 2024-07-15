@@ -1,4 +1,4 @@
-production-asssitant-nodered
+production-assistant-nodered
 ============================
 
 ### About
